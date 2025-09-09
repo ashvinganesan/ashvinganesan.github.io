@@ -5,5 +5,20 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/akash-ganesan-25a870203/">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
+theme: minima
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - README.md
+  - LICENSE
