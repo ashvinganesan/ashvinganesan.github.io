@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 
+# Specify RubyGems version requirement
+ruby "3.3.0"
+
 # Use GitHub Pages gems for better compatibility with hosting platforms
 gem "github-pages", group: :jekyll_plugins
 
