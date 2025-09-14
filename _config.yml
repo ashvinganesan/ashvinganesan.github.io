@@ -1,9 +1,11 @@
-title: Akash Ganesan # your name (or website title) here
+title: Ashvin Ganesan # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a freshman at Reed College pursuing an interdisciplinary degree in Computer Science and Math. 
+  I am a Computer Science & Mathematics student at RPI with experience in AI/ML, software engineering, and robotics. 
   <br><br>
-  <a href="https://www.linkedin.com/in/akash-ganesan-25a870203/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/ashvinganesan">GitHub</a> | 
+  <a href="https://www.linkedin.com/in/ashvin-ganesan/">LinkedIn</a> | 
+  <a href="mailto:ashvin.ganesan@gmail.com">Email</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
