@@ -1,11 +1,10 @@
 # Projects
 
 ## Programming Language Design
-**OCaml lite programming language** - Custom programming language implementation
+**[OCaml‑Lite](https://github.com/ashvinganesan/OCaml-Lite)** — Custom programming language implementation
 - Designed and implemented a lightweight programming language in OCaml
 - Created parser, lexer, and interpreter components
 - Implemented core language features and syntax
-- Repo: https://github.com/ashvinganesan/OCaml-Lite
 
 ## Robotics
 **Rubik's Cube Solver** - Designed and built a robot to solve the Rubik's cube
@@ -15,18 +14,16 @@
 
 ## AI/ML Projects
 
-### Sliding Tile Puzzle Solver
+### [Sliding Tile Puzzle Solver](https://github.com/ashvinganesan/AI-ML-Projects/tree/master/Sliding%20Tile%20Project)
 - Implemented A* search algorithm to solve 8-puzzle and 15-puzzle
 - Used Python with NumPy for optimization
 - Achieved optimal solution paths for various puzzle configurations
 - Can reliably solve boards up to 5x5 and smaller
-- Repo: https://github.com/ashvinganesan/AI-ML-Projects/tree/master/Sliding%20Tile%20Project
 
-### 3D Tic-Tac-Toe Player
+### [3D Tic-Tac-Toe Player](https://github.com/ashvinganesan/3DTicTacToe)
 - Developed AI player using minimax algorithm with alpha-beta pruning
 - Created 3D game interface using Python and Pygame
 - Implemented both human vs AI and AI vs AI game modes
-- Repo: https://github.com/ashvinganesan/3DTicTacToe
 
 ### Titanic Survival Evaluator
 - Built machine learning model to predict passenger survival
@@ -47,11 +44,10 @@
 
 ## Other Projects
 
-### Advent of Code
+### [Advent of Code](https://github.com/ashvinganesan/Python-Projects/tree/master/jupyter/Advent_of_Code_And_Euler)
 - Solved programming challenges in Python and C++
 - Focused on algorithm optimization and data structures
 - Completed multiple years of challenges
-- Repo: https://github.com/ashvinganesan/Python-Projects/tree/master/jupyter/Advent_of_Code_And_Euler
 
 ### Project Euler
 - Mathematical programming problems
