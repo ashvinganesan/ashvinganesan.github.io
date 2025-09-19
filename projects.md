@@ -75,4 +75,4 @@
 
 ---
 
-[Back to Home](index.md)
+**Navigation:** [Home](index.md) | [Experience](experience.md) | [Skills](skills.md) | [Resume](resume.md)

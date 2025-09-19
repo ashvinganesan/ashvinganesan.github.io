@@ -106,4 +106,4 @@ Swift, MIPS Assembly, Raspberry Pi, Electronics
 
 ---
 
-[Back to Home](index.md)
+**Navigation:** [Home](index.md) | [Experience](experience.md) | [Projects](projects.md) | [Skills](skills.md)

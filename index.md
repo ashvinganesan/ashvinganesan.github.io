@@ -8,7 +8,7 @@
 ## About Me
 I'm a passionate computer science and mathematics student with extensive experience in AI/ML, software engineering, and robotics. Currently working as a Software Engineering - AI & Graph at BlueArc, I've contributed to fraud detection algorithms and LLM-powered systems.
 
-**Quick Links:** [Projects](projects.md) | [Skills](skills.md) | [Resume](resume.md)
+**Navigation:** [Experience](experience.md) | [Projects](projects.md) | [Skills](skills.md) | [Resume](resume.md)
 
 ---
 

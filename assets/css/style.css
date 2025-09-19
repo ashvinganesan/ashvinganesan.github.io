@@ -1,0 +1,29 @@
+/* Custom styles for portfolio layout */
+
+/* Add thin grey line separator between columns */
+.sidebar {
+    border-right: 1px solid #e1e4e8;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+
+/* Ensure proper spacing */
+.main-content {
+    padding-left: 20px;
+}
+
+/* Style the logo to be circular */
+.avatar {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Make sure the logo image is circular */
+img[src*="ashvin_headshot_circular.png"] {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
