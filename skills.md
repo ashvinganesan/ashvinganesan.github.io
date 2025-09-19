@@ -3,68 +3,62 @@
 ## Programming Languages
 
 ### Advanced
-- **Java**: Object-oriented programming, data structures, algorithms
-- **Python**: Machine learning, data analysis, web development
-- **ONNX Runtime**: Model optimization and deployment
-- **Git**: Version control, branching, collaboration
+- **Python**
+- **Java**
 
 ### Proficient
-- **C++**: Systems programming, performance optimization
-- **C**: Low-level programming, embedded systems
-- **OCaml**: Functional programming, language design
-- **SQL**: Database design, query optimization
-- **Swift**: iOS development basics
+- **C++**
+- **C**
+- **OCaml**
+- **SQL**
+- **Swift**
 
 ### Basic
-- **MIPS Assembly**: Computer architecture, low-level programming
-- **Raspberry Pi**: Embedded systems, IoT projects
+- **MIPS Assembly**
 
-## Tools & Frameworks
+## Frameworks & Tools
 
 ### Advanced
-- **Solidworks CAD**: 3D modeling, mechanical design
-- **Prompt Engineering**: LLM optimization, AI system design
-- **TensorFlow**: Deep learning, neural networks
+- **Redis**
+- **PostgreSQL**
+
+- **Git**
 
 ### Proficient
-- **Fusion 360 CAM**: Computer-aided manufacturing
-- **Spreadsheets**: Data analysis, automation
-- **Arduino**: Embedded programming, robotics
-- **LaTeX**: Technical documentation, academic writing
-- **Mechanical Design**: Product development, prototyping
+- **TensorFlow**
+- **ONNX Runtime**
+- **Docker**
+- **LaTeX**
+- **Arduino**
+- **Spreadsheets**
+
 
 ### Basic
-- **Electronics**: Circuit design, hardware integration
+- **Kubernetes**
+- **Electronics**
 
-## Technical Skills
+## Domain Skills
 
 ### Machine Learning & AI
-- Neural network design and training
-- Model optimization and quantization
-- Prompt engineering for LLMs
+- Neural networks, quantization, embeddings
+- Prompt engineering and evaluation
 - Data preprocessing and feature engineering
 - Model deployment and inference
 
 ### Software Engineering
+- Distributed systems, reliability, retries, test coverage
 - API design and integration
-- System architecture
-- Code review and quality assurance
-- Agile development methodologies
-- Testing and debugging
+- System architecture and caching
+- Testing and debugging; code reviews
+
+### Data & Databases
+- Schema design, SQL optimization
+- Connection pooling and RLS
 
 ### Robotics & Hardware
-- CAD design and 3D printing
-- Arduino programming
-- Sensor integration
-- Mechanical assembly
-- Prototype development
-
-### Data Analysis
-- Statistical analysis
-- Data visualization
-- Database design
-- Performance optimization
-- Report generation
+- CAD (SolidWorks), 3D printing
+- Arduino and sensors
+- Mechanical design and prototyping
 
 ## Soft Skills
 
