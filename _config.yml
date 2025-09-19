@@ -7,8 +7,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/ashvin-ganesan/">LinkedIn</a> | 
   <a href="mailto:ashvin.ganesan@gmail.com">Email</a> 
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+# Theme customization
+show_excerpts: true
+show_related: true
 
 # Build settings
 markdown: kramdown
