@@ -11,18 +11,17 @@
 - **C**
 - **OCaml**
 - **SQL**
-- **Swift**
 
 ### Basic
 - **MIPS Assembly**
+- **Swift**
 
 ## Frameworks & Tools
 
 ### Advanced
 - **Redis**
 - **PostgreSQL**
-
-- **Git**
+- **Git/Yaml creation**
 
 ### Proficient
 - **TensorFlow**
