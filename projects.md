@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Projects
 
 ## Programming Language Design

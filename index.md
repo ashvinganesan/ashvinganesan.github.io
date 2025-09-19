@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Ashvin Ganesan
 **Computer Science & Mathematics Student at Reed College**
 
