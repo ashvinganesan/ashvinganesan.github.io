@@ -1,5 +1,5 @@
 title: Ashvin Ganesan # your name (or website title) here
-logo: "/images/ashvin_headshot.png?raw=true" # your photo (or logo) here
+logo: "/images/ashvin_logo_small.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a Computer Science & Mathematics student at RPI with experience in AI/ML, software engineering, and robotics. 
   <br><br>
@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/ashvin-ganesan/">LinkedIn</a> | 
   <a href="mailto:ashvin.ganesan@gmail.com">Email</a> 
   
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 # Theme customization
