@@ -3,13 +3,6 @@
 /* Add thin grey line separator between columns */
 .sidebar {
     border-right: 1px solid #e1e4e8;
-    padding-right: 20px;
-    margin-right: 20px;
-}
-
-/* Ensure proper spacing */
-.main-content {
-    padding-left: 20px;
 }
 
 /* Style the logo to be circular */
