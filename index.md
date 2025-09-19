@@ -1,12 +1,12 @@
 # Ashvin Ganesan
-**Computer Science & Mathematics Student at RPI (Junior)**
+**Computer Science Junior at RPI**
 
 *AI/ML Engineer | Software Developer | Robotics Enthusiast*
 
 ---
 
 ## About Me
-I'm a CS + Math student at RPI with experience across AI/ML, distributed systems, and product engineering. Formerly Software Engineer (AI & Graph) at BlueArc AI. Currently building my own company, PicQR AI, which creates image‑styled, fully scannable QR codes.
+I'm a CS student at RPI with experience across AI/ML, distributed systems, and product engineering. Formerly Software Engineer (AI & Graph) at BlueArc AI. Currently building my own company, PicQR AI, which creates image‑styled, fully scannable QR codes.
 
 
 
@@ -33,7 +33,3 @@ Always happy to connect with builders, researchers, and potential investors. Ope
 - **Location:** Portola Valley, CA 94028
 - **GitHub:** [github.com/ashvinganesan](https://github.com/ashvinganesan)
 - **LinkedIn:** [linkedin.com/in/ashvinganesan](https://www.linkedin.com/in/ashvinganesan/)
-
----
-
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
