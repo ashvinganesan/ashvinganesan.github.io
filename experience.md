@@ -5,8 +5,6 @@
 ### Founder & CEO, PicQR AI
 Building PicQR AI from MVP into a company that combines images with QR to create fully scannable, image‑styled QR codes. More to come.
 
-<br>
-
 ## Previous Experience
 
 ### Software Engineer - AI & Graph at BlueArc
@@ -20,27 +18,19 @@ Building PicQR AI from MVP into a company that combines images with QR to create
 - Created a custom abstraction language plus supporting internal tools to accelerate delivery and reduce defects.
 - Interviewed, hired, and trained engineers; contributed to architecture decisions around graph theory, caching, and service design.
 
-<br>
-
 ### Software Engineering Intern at BlueArc
 **May 2024 - September 2024**
 - Developed core frameworks for BlueArc's LLM-powered automatic risk-management and compliance system
 - Key contributions in API integration, prompt engineering, and embedding systems
-
-<br>
 
 ### Computer Science & Math Trainer at DataAnnotation
 **May 2024 - Present**
 - Specializes in prompt engineering and evaluating LLM responses
 - Guides LLMs to solve complex Math & CS problems
 
-<br>
-
 ### Computer Science Trainer at Scale AI (Outliers)
 **February 2024 - Present**
 - Reviews and assesses AI-generated code for accuracy and quality
-
-<br>
 
 ### CPU Machine Learning Co-Op/Intern at AMD
 **May 2023 - Aug 2023**
@@ -48,8 +38,6 @@ Building PicQR AI from MVP into a company that combines images with QR to create
 - Developed and applied genetic algorithm to quantize 90% of CNN nodes
 - Achieved dramatic model size reduction with only 0.2% accuracy loss (vs 10% with full quantization)
 - Reduced memory usage and sped up inference times for resource-constrained devices
-
-<br>
 
 ### Captain, Barn2Robotics FRC Team 751
 **2021 - 2022**
