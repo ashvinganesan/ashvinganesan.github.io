@@ -1,105 +1,33 @@
 # Ashvin Ganesan
 **Computer Science & Mathematics Student at Reed College**
 
+*AI/ML Engineer | Software Developer | Robotics Enthusiast*
+
 ---
 
 ## About Me
 I'm a passionate computer science and mathematics student with extensive experience in AI/ML, software engineering, and robotics. Currently working as a Software Engineering - AI & Graph at BlueArc, I've contributed to fraud detection algorithms and LLM-powered systems.
 
----
-
-## Education
-
-### Reed College
-**Computer Science & Mathematics** | 2022 - 2026
-
-**CS Courses:** CS Fundamentals II, Algorithms & Data Structures, Computer Systems, Programming Language Design & Implementation, and Computability & Complexity
-
-**Math Courses:** Intro to Analysis, Discrete Math, Linear Algebra, Vector Calculus, Abstract Algebra, and Number Theory
-
-### Woodside Priory High School
-**CS/Math Focus** | 2018 - 2022
-
-**Courses:** AI, ML, Algorithms & Data Structures, AP CS, Intro to Computer Science, AP Statistics, AP Calculus BC, AP Physics C, & four years of Robotics
-
-**Awards:** CS Department award 2020 & CS Department award 2022
+**Quick Links:** [Projects](projects.md) | [Skills](skills.md) | [Resume](resume.md)
 
 ---
 
-## Experience
+## Current Focus
 
-### Software Engineering - AI & Graph at BlueArc
-**September 2024 - Present**
-- Written core fraud detection algorithms
-- Built/improved system for automated fraud detection
-- Trained new hires
+I'm currently working on **AI/ML systems** at BlueArc, where I develop fraud detection algorithms and LLM-powered compliance systems. My work spans from low-level optimization (like the CNN quantization project at AMD) to high-level system design.
 
-### Software Engineering Intern at BlueArc
-**May 2024 - September 2024**
-- Developed core frameworks for BlueArc's LLM-powered automatic risk-management and compliance system
-- Key contributions in API integration, prompt engineering, and embedding systems
+## Key Achievements
 
-### Computer Science & Math Trainer at DataAnnotation
-**May 2024 - Present**
-- Specializes in prompt engineering and evaluating LLM responses
-- Guides LLMs to solve complex Math & CS problems
+- **90% CNN quantization** with only 0.2% accuracy loss at AMD
+- **Core fraud detection algorithms** at BlueArc
+- **Robotics team leadership** and technical mentoring
+- **Multiple AI/ML projects** from puzzle solvers to survival predictors
 
-### Computer Science Trainer at Scale AI (Outliers)
-**February 2024 - Present**
-- Reviews and assesses AI-generated code for accuracy and quality
+## What I'm Looking For
 
-### CPU Machine Learning Co-Op/Intern at AMD
-**May 2023 - Aug 2023**
-- Led project focused on partial quantization of convolutional neural networks (CNNs)
-- Developed and applied genetic algorithm to quantize 90% of CNN nodes
-- Achieved dramatic model size reduction with only 0.2% accuracy loss (vs 10% with full quantization)
-- Reduced memory usage and sped up inference times for resource-constrained devices
+I'm passionate about **machine learning**, **software engineering**, and **robotics**. I enjoy solving complex problems and building systems that make a real impact.
 
-### Captain of the Barn2Robotics FRC Team 751
-**2021-2022**
-- Led team organization, scheduling, and budget management
-- Taught CAD and design process
-- Spearheaded recruitment efforts and managed component leads
-
----
-
-## Skills
-
-### Advanced
-Java, Python, ONNX Runtime, Solidworks CAD, Git, Prompt Engineering
-
-### Proficient
-C++, C, OCaml, SQL, TensorFlow, Fusion 360 CAM, Spreadsheets, Arduino, LaTeX, Mechanical Design
-
-### Basic
-Swift, MIPS Assembly, Raspberry Pi, Electronics
-
----
-
-## Projects
-
-### Programming Language Design
-**OCaml lite programming language** - Custom programming language implementation
-
-### Robotics
-**Rubik's Cube Solver** - Designed and built a robot to solve the Rubik's cube
-
-### AI/ML Projects
-- Sliding Tile puzzle solver
-- 3D Tic-Tac-Toe Player
-- Titanic Survival Evaluator
-- Linear regression housing price prediction
-- MNIST digit identification
-
-### Algorithm Projects
-- Merge Sort, Heap Sort
-- Regular Expressions Evaluation
-- Recursive Descent Parser
-- Binary Search Trees
-
-### Other Projects
-- Advent of Code solutions
-- Project Euler problems
+**Interested in:** Internships, research opportunities, and collaborative projects in AI/ML, software engineering, or robotics.
 
 ---
 
