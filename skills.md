@@ -87,5 +87,3 @@
 - Performance optimization
 
 ---
-
-**Navigation:** [Home](index.md) | [Experience](experience.md) | [Projects](projects.md) | [Resume](resume.md)

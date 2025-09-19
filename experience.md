@@ -40,5 +40,3 @@
 - Spearheaded recruitment efforts and managed component leads
 
 ---
-
-[Back to Home](index.md) | [Projects](projects.md) | [Skills](skills.md) | [Resume](resume.md)

@@ -105,5 +105,3 @@ Swift, MIPS Assembly, Raspberry Pi, Electronics
 - Project Euler problems
 
 ---
-
-**Navigation:** [Home](index.md) | [Experience](experience.md) | [Projects](projects.md) | [Skills](skills.md)
