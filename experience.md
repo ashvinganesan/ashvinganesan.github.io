@@ -2,11 +2,19 @@
 
 ## Current Role
 
-### Software Engineering - AI & Graph at BlueArc
-**September 2024 - Present**
-- Written core fraud detection algorithms
-- Built/improved system for automated fraud detection
-- Trained new hires
+### Founder & CEO, PicQR AI
+Building PicQR AI from MVP into a company that combines images with QR to create fully scannable, image‑styled QR codes. More to come.
+
+### Software Engineer - AI & Graph at BlueArc
+**September 2024 - August 2025**
+- Owned and scaled the core distributed system, reducing error rates by >98% and increasing throughput by >100×.
+- Implemented row-level security in PostgreSQL and a Redis enforcement layer to guarantee strict per-customer access controls.
+- Wrote/refactored approximately 30–40% of BlueArc process steps across the platform, with major increases in automated test coverage.
+- Built a status-code–based custom retry framework mirroring HTTP semantics to harden external integrations and background jobs.
+- Developed most customer-specific process steps for a multi-billion-dollar pilot, converting it from pilot to paying customer.
+- Designed a global database connection pooler, authored deployment scripts, and provisioned new PROD/DEV environments.
+- Created a custom abstraction language plus supporting internal tools to accelerate delivery and reduce defects.
+- Interviewed, hired, and trained engineers; contributed to architecture decisions around graph theory, caching, and service design.
 
 ## Previous Experience
 
@@ -26,7 +34,7 @@
 
 ### CPU Machine Learning Co-Op/Intern at AMD
 **May 2023 - Aug 2023**
-- Led project focused on partial quantization of convolutional neural networks (CNNs)
+- project focused on partial quantization of convolutional neural networks (CNNs)
 - Developed and applied genetic algorithm to quantize 90% of CNN nodes
 - Achieved dramatic model size reduction with only 0.2% accuracy loss (vs 10% with full quantization)
 - Reduced memory usage and sped up inference times for resource-constrained devices
