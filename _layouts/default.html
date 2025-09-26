@@ -29,6 +29,19 @@
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
+  <script>
+    (function(){
+      try {
+        var host = window.location.hostname;
+        if (host === 'games.ashvinganesan.me') {
+          var target = '/games/';
+          if (window.location.pathname !== target) {
+            window.location.replace(target);
+          }
+        }
+      } catch (e) {}
+    })();
+  </script>
 </html>
 
 

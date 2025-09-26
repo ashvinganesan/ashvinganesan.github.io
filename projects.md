@@ -20,10 +20,11 @@
 - Achieved optimal solution paths for various puzzle configurations
 - Can reliably solve boards up to 5x5 and smaller
 
-### [3D Tic-Tac-Toe Player](https://github.com/ashvinganesan/3DTicTacToe)
-- Developed AI player using minimax algorithm with alpha-beta pruning
-- Created 3D game interface using Python and Pygame
-- Implemented both human vs AI and AI vs AI game modes
+### [3D Tic‑Tac‑Toe] (https://games.ashvinganesan.me/3dttt/)
+- Play: https://games.ashvinganesan.me/3dttt/
+- Code: https://github.com/ashvinganesan/3DTicTacToe/tree/gh-pages
+- 4×4×4 engine with minimax + alpha‑beta pruning (Java)
+- TeaVM exports engine to JS; WebGL UI (Three.js)
 
 ### Titanic Survival Evaluator
 - Built machine learning model to predict passenger survival
