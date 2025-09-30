@@ -23,20 +23,11 @@
 ### [3D Tic‑Tac‑Toe](https://games.ashvinganesan.me/3dttt/)
 - **Play**: [games.ashvinganesan.me/3dttt](https://games.ashvinganesan.me/3dttt/)
 - **Code**: [github.com/ashvinganesan/3DTicTacToe/tree/gh-pages](https://github.com/ashvinganesan/3DTicTacToe/tree/gh-pages)
-- Built a 4×4×4 3D Tic‑Tac‑Toe web app with a Java AI engine compiled to WebAssembly/JS via TeaVM, rendered in Three.js, and deployed on GitHub Pages.
-- Time‑bounded alpha‑beta AI in a Web Worker; precise raycasting, orbit camera, hover/placement animations, and win‑line highlighting.
-
-**How it works (brief)**
-- Static site (no backend): Pages serves assets; all compute runs in the browser.
-- Java AI → TeaVM: `TTTEngine.bestMove` is exported and invoked from a Web Worker.
-- Three.js UI: layer sheets with raycasting; drag‑only orbit camera.
-- Game logic: generic 4×4×4 win‑line generation; flat‑array board; strict press handling.
-
-```js
-// Tiny code glimpse — engine call with time budget handled in worker
-const empty = "................................................................";
-const [x, y, z] = window.ttt_bestMove(empty, "X");
-```
+- 4×4×4 3D Tic‑Tac‑Toe with a Java AI (minimax + alpha‑beta) compiled to WebAssembly with TeaVM, rendered in Three.js.
+- The AI runs in a Web Worker, so the page stays responsive. Click to place, hover to preview, and see win lines highlighted.
+- Static, client‑side only; hosted on GitHub Pages.
+ - Three.js interaction: OrbitControls for camera and Raycaster for precise picking.
+ - Deployed via GitHub Pages to [games.ashvinganesan.me/3dttt](https://games.ashvinganesan.me/3dttt/)
 
 ### Titanic Survival Evaluator
 - Built machine learning model to predict passenger survival
